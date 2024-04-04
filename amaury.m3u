@@ -45,9 +45,26 @@ https://5c483b9d1019c.streamlock.net/8054/8054/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/CNN_Brasil.svg/512px-CNN_Brasil.svg.png" group-title="Variedades", CNN Brasil
 https://ythls.armelin.one/channel/UCvdwhh_fDyWccR42-rReZLw.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/GrjGwKM.png" group-title="Variedades", COM Brasil
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=960
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/XN6jjMR.png" group-title="Notícias", ConecTV Brasil
+https://stream01.msolutionbrasil.com.br/hls/conectv/live.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/CJ9SPsZ.png" group-title="Variedades", Conexao TV
+https://5a57bda70564a.streamlock.net/conexaotv/conexaotv.sdp/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/DiaTV.webp/1920px-DiaTV.webp.png" group-title="Variedades", DiaTV
+https://ythls-v2.onrender.com/channel/UCKnMcgDLxDeq9HqUgLhtYbQ.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/1eHNe91.png" group-title="Religioso", ElyTV
+https://stmv1.srvsite.com/ely/ely/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/8PxpamC.png" group-title="Notícias", EUTV
+https://cdn.jmvstream.com/w/LVW-8719/LVW8719_AcLVAxWy5J/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/NF6PL8O.png" group-title="Música", Fala Litoral
+https://5c483b9d1019c.streamlock.net/falalitoraltv/falalitoraltv/playlist.m3u8
 
 
 
